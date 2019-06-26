@@ -1,0 +1,5 @@
+E:\Modular Project\cruds\BOL\bin\Debug\BOL.dll
+E:\Modular Project\cruds\BOL\bin\Debug\BOL.pdb
+E:\Modular Project\cruds\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+E:\Modular Project\cruds\BOL\obj\Debug\BOL.dll
+E:\Modular Project\cruds\BOL\obj\Debug\BOL.pdb

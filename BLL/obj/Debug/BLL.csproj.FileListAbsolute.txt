@@ -1,0 +1,11 @@
+E:\Modular Project\cruds\BLL\bin\Debug\BLL.dll
+E:\Modular Project\cruds\BLL\bin\Debug\BLL.pdb
+E:\Modular Project\cruds\BLL\bin\Debug\BOL.dll
+E:\Modular Project\cruds\BLL\bin\Debug\DAL.dll
+E:\Modular Project\cruds\BLL\bin\Debug\BOL.pdb
+E:\Modular Project\cruds\BLL\bin\Debug\DAL.pdb
+E:\Modular Project\cruds\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\Modular Project\cruds\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Modular Project\cruds\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Modular Project\cruds\BLL\obj\Debug\BLL.dll
+E:\Modular Project\cruds\BLL\obj\Debug\BLL.pdb

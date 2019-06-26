@@ -1,0 +1,23 @@
+﻿@using BOL
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@{
+    List<Employee> emp = ViewData["emps"] as List<Employee>;
+}
+
+<ol>
+    @{
+        foreach (Employee em in emp)
+        {
+            <p>RollNO :@em.Id </p>
+            <p>Name : @em.Name</p>
+            <p>Age : @em.Age</p>
+
+        }
+    }
+
+</ol>
